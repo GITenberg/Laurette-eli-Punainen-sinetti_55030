@@ -1,0 +1,26 @@
+_repo: Laurette-eli-Punainen-sinetti_55030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vigny, Alfred de
+    aliases:
+    - De Vigny, Alfred
+    - Vigny, Alfred Victor, comte de
+    birthdate: 1797
+    deathdate: 1863
+    gutenberg_agent_id: '1343'
+    url: http://www.gutenberg.org/2009/agents/1343
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Vigny
+description: ''
+gutenberg_issued: '2017-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55030'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Laurette eli Punainen sinetti
+url: http://www.gutenberg.org/ebooks/55030
